@@ -11,17 +11,18 @@ The code are very flexible to update and enhace, object orented, scalable and we
 Commands
 =======================================================
 
-To install the packages use this command
+To install the packages use this command -
 npm install
 
-To build this project , please use the following command
+To build this project , please use the following command -
 npm run build
 
-To Run this project , please use this command
+To Run this project , please use this command -
 npm start
 
-Please also start the api server with the following command
-node server.js from the src folder 
+Please also start the api server with the following command -
+node server.js 
+from the src folder 
 
 Wish lists
 ========================================================
