@@ -6,7 +6,7 @@ Overview
 ========================================================
 
 This solution is built on top of react-redux-saga application.
-The code are very flexible to update and enhace, object orented, scalable and well maintainable solution.
+The code are very flexible to update and enhance, object oriented, scalable and well maintainable solution.
 
 Commands
 =======================================================
